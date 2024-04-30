@@ -12,6 +12,9 @@
 p {
   text-align: center;
 }
+em strong{
+  color:red;
+}
 
 #missao {
   font-size: 28px;
@@ -21,12 +24,20 @@ p {
 .texto-centralizado {
   text-align: center;
 }
+.beneicios{
+  padding: 20px;
+  background-color: white;
+}
 
 ul{
   display: inline-block;
   vertical-align: top;
   width: 20%;
   margin-right: 15%;
+}
+
+.item{
+  font-style: italic;
 }
 
 .imagem-beneficio {
