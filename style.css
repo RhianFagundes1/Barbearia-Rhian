@@ -12,8 +12,13 @@
 p {
   text-align: center;
 }
-em strong{
-  color:red;
+
+em strong {
+  color: red;
+}
+
+.texto-centralizado {
+  text-align: center;
 }
 
 #missao {
@@ -21,14 +26,11 @@ em strong{
 
 }
 
-.texto-centralizado {
-  text-align: center;
-}
-.beneicios{
-  padding: 20px;
-  background-color: white;
-}
 
+.beneficios{
+  padding: 20px;
+  background-color: #ffffff;
+}
 ul{
   display: inline-block;
   vertical-align: top;
