@@ -35,14 +35,26 @@ ol, ul {
   list-style: none;
 }
 blockquote, q {
-  quotes: none;
+  quotes: none;produtos li:active{produtos li:active{
+      border-color:088c19;
+    }
+    border-color:088c19;
+  }produtos li:active{
+    border-color:088c19;
+  }
+}produtos li:active{
+  border-color:088c19;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
   content: '';
   content: none;
 }
-table {
+table {produtos li:active{
+    border-color:088c19;
+  }
   border-collapse: collapse;
   border-spacing: 0;
+}produtos li:active{
+  border-color:088c19;
 }

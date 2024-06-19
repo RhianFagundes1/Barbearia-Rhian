@@ -1,4 +1,4 @@
-#banner {
+jg#banner {
   width: 100%;
 }
 .principal{
@@ -17,15 +17,14 @@ em strong {
   color: red;
 }
 
-.texto-centralizado {
-  text-align: center;
-}
-
 #missao {
   font-size: 28px;
 
 }
 
+.texto-centralizado {
+  text-align: center;
+}
 
 .beneficios{
   padding: 20px;
